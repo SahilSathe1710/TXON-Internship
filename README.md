@@ -13,6 +13,10 @@ Task 02 involves creating a simple calculator using HTML, CSS and JavaScript. Th
 
 Task 03 involves a To-do list app using basic HTML, CSS and JavaScript. There are three files ie. HTML file, CSS file and the JavaScript file respectively. The To-do list app consists of three filters ie. All, Pending and Completed respectively. There is also a clear button and a input box where you enter your task.
 
+# Task-04
+
+Task 04 involves my portfolio website made using HTML, CSS and JavaScript. There are three files ie. HTML file, CSS file and the JavaScript file respectively. The portfolio website consists of Header, About, Skills, Contact sections respectively. The JavaScript file consists of jQuery statements for text animation and other scripting actions.
+
 # Link to the output of each task
 
 https://sahilsathe1710.github.io/TXON-Internship/TXON_01/TXON_01.html
